@@ -1,0 +1,61 @@
+title,category,rating,availability,price,upc,product_type,price_excluding_tax,price_including_tax,tax,number_of_reviews,product_url
+A Light in the Attic,Poetry,Three,In stock,51.77,a897fe39b1053632,Books,51.77,51.77,0.0,0,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+Tipping the Velvet,Historical Fiction,One,In stock,53.74,90fa61229261140a,Books,53.74,53.74,0.0,0,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+Soumission,Fiction,One,In stock,50.1,6957f44c3847a760,Books,50.1,50.1,0.0,0,https://books.toscrape.com/catalogue/soumission_998/index.html
+Sharp Objects,Mystery,Four,In stock,47.82,e00eb4fd7b871a48,Books,47.82,47.82,0.0,0,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+Sapiens: A Brief History of Humankind,History,Five,In stock,54.23,4165285e1663650f,Books,54.23,54.23,0.0,0,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+The Requiem Red,Young Adult,One,In stock,22.65,f77dbf2323deb740,Books,22.65,22.65,0.0,0,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+The Dirty Little Secrets of Getting Your Dream Job,Business,Four,In stock,33.34,2597b5a345f45e1b,Books,33.34,33.34,0.0,0,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Default,Three,In stock,17.93,e72a5dfc7e9267b2,Books,17.93,17.93,0.0,0,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Default,Four,In stock,22.6,e10e1e165dc8be4a,Books,22.6,22.6,0.0,0,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+The Black Maria,Poetry,One,In stock,52.15,1dfe412b8ac00530,Books,52.15,52.15,0.0,0,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+"Starving Hearts (Triangular Trade Trilogy, #1)",Default,Two,In stock,13.99,0312262ecafa5a40,Books,13.99,13.99,0.0,0,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+Shakespeare's Sonnets,Poetry,Four,In stock,20.66,30a7f60cd76ca58c,Books,20.66,20.66,0.0,0,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+Set Me Free,Young Adult,Five,In stock,17.46,ce6396b0f23f6ecc,Books,17.46,17.46,0.0,0,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,Five,In stock,52.29,3b1c02bac2a429e6,Books,52.29,52.29,0.0,0,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+Rip it Up and Start Again,Music,Five,In stock,35.02,a34ba96d4081e6a4,Books,35.02,35.02,0.0,0,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,Three,In stock,57.25,deda3e61b9514b83,Books,57.25,57.25,0.0,0,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+Olio,Poetry,One,In stock,23.88,feb7cc7701ecf901,Books,23.88,23.88,0.0,0,https://books.toscrape.com/catalogue/olio_984/index.html
+Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,One,In stock,37.59,e30f54cea9b38190,Books,37.59,37.59,0.0,0,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+Libertarianism for Beginners,Politics,Two,In stock,51.33,a18a4f574854aced,Books,51.33,51.33,0.0,0,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+It's Only the Himalayas,Travel,Two,In stock,45.17,a22124811bfa8350,Books,45.17,45.17,0.0,0,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+In Her Wake,Thriller,One,In stock,12.84,23356462d1320d61,Books,12.84,12.84,0.0,0,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+How Music Works,Music,Two,In stock,37.32,327f68a59745c102,Books,37.32,37.32,0.0,0,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food and Drink,Three,In stock,30.52,5674a18a29a43ced,Books,30.52,30.52,0.0,0,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+Chase Me (Paris Nights #2),Romance,Five,In stock,25.27,c2e46a2ee3b4a322,Books,25.27,25.27,0.0,0,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+Black Dust,Romance,Five,In stock,34.53,00bfed9e18bb36f3,Books,34.53,34.53,0.0,0,https://books.toscrape.com/catalogue/black-dust_976/index.html
+Birdsong: A Story in Pictures,Childrens,Three,In stock,54.64,9528d0948525bf5f,Books,54.64,54.64,0.0,0,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Default,Three,In stock,22.5,c7d160c2c0de586f,Books,22.5,22.5,0.0,0,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+Aladdin and His Wonderful Lamp,Default,Three,In stock,53.13,904208d6aa64b655,Books,53.13,53.13,0.0,0,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,Five,In stock,40.3,4c28def39d850cdf,Books,40.3,40.3,0.0,0,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+Wall and Piece,Art,Four,In stock,44.18,ccd9ffa25efabdea,Books,44.18,44.18,0.0,0,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,Five,In stock,17.66,6258a1f6a6dcfe50,Books,17.66,17.66,0.0,0,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,Three,In stock,31.05,3c039985229453bf,Books,31.05,31.05,0.0,0,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+The Elephant Tree,Thriller,Five,In stock,23.82,5dada2b7be26bd03,Books,23.82,23.82,0.0,0,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+The Bear and the Piano,Childrens,One,In stock,36.89,9f6568e9c95f60b0,Books,36.89,36.89,0.0,0,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+Sophie's World,Philosophy,Five,In stock,15.94,6be3beb0793a53e7,Books,15.94,15.94,0.0,0,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+Penny Maybe,Default,Three,In stock,33.29,668fe56b17cfcd4f,Books,33.29,33.29,0.0,0,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+Maude (1883-1993):She Grew Up with the country,Default,Two,In stock,18.02,094b269567e1c300,Books,18.02,18.02,0.0,0,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+"In a Dark, Dark Wood",Mystery,One,In stock,19.63,19ed25f4641d5efd,Books,19.63,19.63,0.0,0,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+Behind Closed Doors,Thriller,Four,In stock,52.22,be5cc846f45496fb,Books,52.22,52.22,0.0,0,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+You can't bury them all: Poems,Poetry,Two,In stock,33.63,55f9da0c5eea2e10,Books,33.63,33.63,0.0,0,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+Slow States of Collapse: Poems,Poetry,Three,In stock,57.31,b4fd5943413e089a,Books,57.31,57.31,0.0,0,https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+Reasons to Stay Alive,Nonfiction,Two,In stock,26.41,c8f7f0cb1abb9cac,Books,26.41,26.41,0.0,0,https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+Private Paris (Private #10),Fiction,Five,In stock,47.61,b12b89017878a60d,Books,47.61,47.61,0.0,0,https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,Five,In stock,23.11,c27f6e1f185b0383,Books,23.11,23.11,0.0,0,https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+Without Borders (Wanderlove #1),New Adult,Two,In stock,45.07,acddfeab2a407640,Books,45.07,45.07,0.0,0,https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+When We Collided,Contemporary,One,In stock,31.77,3ecb690d1542c568,Books,31.77,31.77,0.0,0,https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+"We Love You, Charlie Freeman",Fiction,Five,In stock,50.27,8d455c7539795d2a,Books,50.27,50.27,0.0,0,https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+Untitled Collection: Sabbath Poems 2014,Poetry,Four,In stock,14.27,657fe5ead67a7767,Books,14.27,14.27,0.0,0,https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,Four,In stock,44.18,d170b5a0da46380e,Books,44.18,44.18,0.0,0,https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+Unicorn Tracks,Fantasy,Three,In stock,18.78,7ae099f3898e0209,Books,18.78,18.78,0.0,0,https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,One,In stock,25.52,9a9d6e9bc555731e,Books,25.52,25.52,0.0,0,https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,One,In stock,16.28,09555be379ad9253,Books,16.28,16.28,0.0,0,https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,Three,In stock,31.12,7858914fad68493c,Books,31.12,31.12,0.0,0,https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+This One Summer,Sequential Art,Four,In stock,19.49,51653ef291ab7ddc,Books,19.49,19.49,0.0,0,https://books.toscrape.com/catalogue/this-one-summer_947/index.html
+Thirst,Fiction,Five,In stock,17.27,709822d0b5bcb7f4,Books,17.27,17.27,0.0,0,https://books.toscrape.com/catalogue/thirst_946/index.html
+The Torch Is Passed: A Harding Family Story,Add a comment,One,In stock,19.09,4eed62cf5f8d8edf,Books,19.09,19.09,0.0,0,https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+The Secret of Dreadwillow Carse,Childrens,One,In stock,56.13,b5ea0b5dabed25a8,Books,56.13,56.13,0.0,0,https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food and Drink,One,In stock,56.41,142d767a56a9254d,Books,56.41,56.41,0.0,0,https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+The Past Never Ends,Mystery,Four,In stock,56.5,5ee94540d0749ea0,Books,56.5,56.5,0.0,0,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+The Natural History of Us (The Fine Art of Pretending #2),Young Adult,Three,In stock,45.22,cedf82b5086e4691,Books,45.22,45.22,0.0,0,https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html

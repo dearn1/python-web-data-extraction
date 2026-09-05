@@ -1,0 +1,12 @@
+{
+  "total_records": 60,
+  "missing_title": 0,
+  "missing_price": 0,
+  "invalid_price": 0,
+  "missing_product_url": 0,
+  "missing_availability": 0,
+  "missing_upc": 0,
+  "duplicate_urls": 0,
+  "is_valid": true,
+  "issues": []
+}
